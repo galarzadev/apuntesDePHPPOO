@@ -1,0 +1,10 @@
+{
+    "name": "phpunit/phpunit",
+    "authors": [
+        {
+            "name": "Sergio Galarza",
+            "email": "sergiogalarzalopez@gmail.com"
+        }
+    ],
+    "require": {}
+}
